@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "2de7f9c7-e1ec-4d3b-8810-1c202085daf4",
+    "name": "Patti McLaughlin-McDermott",
+    "phone": "1-888-577-8887 x1807",
+    "email": "Faye23@gmail.com",
+    "job": "Principal Solutions Administrator"
+  },
+  {
+    "id": "ece85248-0639-426a-a25c-8e748eba7867",
+    "name": "Nicolas Gusikowski-Carter",
+    "phone": "210.348.8646 x00352",
+    "email": "Henri.Lebsack@gmail.com",
+    "job": "Product Usability Designer"
+  },
+  {
+    "id": "4ff1c708-f052-47b5-9edb-ffb62b932983",
+    "name": "Owen Satterfield",
+    "phone": "(837) 210-6562",
+    "email": "Jaquan84@hotmail.com",
+    "job": "Regional Web Agent"
+  },
+  {
+    "id": "0d6dd887-1309-4f3c-9808-9b87af11573e",
+    "name": "Hector Trantow",
+    "phone": "777-318-3888 x23600",
+    "email": "Seth.Walsh37@gmail.com",
+    "job": "Forward Marketing Agent"
+  },
+  {
+    "id": "1ef406b9-4171-4fd8-946d-c8f0a3a0372b",
+    "name": "Rita Bartoletti",
+    "phone": "(628) 380-4224 x751",
+    "email": "Chad40@yahoo.com",
+    "job": "Direct Metrics Executive"
+  }
+]
